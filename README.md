@@ -12,8 +12,9 @@ Here is a list of my main projects.
 * [Voltage drop](https://github.com/cthadeusantos/voltage_drop) (Python)
 * [Electrical quick guide](https://github.com/cthadeusantos/electrical_quick_guide), (portuguese - LATEX)
 
+<!--
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cthadeusantos&theme=dracula)](https://github.com/cthadeusantos/github-readme-stats)
-
+-->
 <!--
 **cthadeusantos/cthadeusantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
