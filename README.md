@@ -2,7 +2,15 @@
 
 Hello!
 
-Welcome to my Github profile. My name is Carlos Thadeu. I like computers, open source, science, technology, astronomy and more.
+Welcome to my Github profile. My name is Carlos Thadeu.
+
+* ELECTRICAL ENGINEER
+* COMPUTER SYSTEM TECHNOLOGIST
+* I AM CURRENTLY PURSUING A MASTER’S DEGREE IN COMPUTER SCIENCE
+
+I like computers, open source, science, technology, astronomy and more.
+
+[My Github Webpage](https://cthadeusantos.github.io)
 
 ---
 
