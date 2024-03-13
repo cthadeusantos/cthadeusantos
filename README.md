@@ -4,10 +4,10 @@ Hello!
 
 Welcome to my Github profile. My name is Carlos Thadeu.
 
-* ELECTRICAL ENGINEER
-* COMPUTER SYSTEM TECHNOLOGIST
-* TELEMATICS SPECIALIZATION
-* M.Sc. IN COMPUTER SCIENCE (Graph Theory)
+* Electrical Engineer
+* Computer System Technologist
+* Telematics Specialization
+* M.Sc. in Computer Science
 
 I like computers, open source, science, technology, astronomy and more.
 
