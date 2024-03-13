@@ -6,7 +6,8 @@ Welcome to my Github profile. My name is Carlos Thadeu.
 
 * ELECTRICAL ENGINEER
 * COMPUTER SYSTEM TECHNOLOGIST
-* I AM CURRENTLY PURSUING A MASTER’S DEGREE IN COMPUTER SCIENCE
+* TELEMATICS SPECIALIZATION
+* M.Sc. IN COMPUTER SCIENCE (Graph Theory)
 
 I like computers, open source, science, technology, astronomy and more.
 
