@@ -18,7 +18,7 @@ I like computers, open source, science, technology, astronomy and more.
 Here is a list of my main projects.
 
 * [Spanner tree generator](https://github.com/cthadeusantos/spanner_tree_generator) (C/C++)
-* [Phobos](https://github.com/cthadeusantos/phobos) (Python software for modeling voltage drops in electrical power distribution networks)
+* [Phobos](https://github.com/cthadeusantos/phobos) (Python software for modeling voltage drops in an electrical power distribution networks)
 * [Makemake](https://github.com/cthadeusantos/makemake) (Python/Django)
 * [Electrical quick guide](https://github.com/cthadeusantos/electrical_quick_guide), (portuguese - LATEX)
 
