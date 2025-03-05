@@ -6,7 +6,7 @@ Welcome to my Github profile. My name is Carlos Thadeu.
 
 * Electrical Engineer
 * Computer System Technologist
-* Telematics Specialization
+* Postgraduate Specialization in Digital Data Communications (Telematics)
 * M.Sc. in Computer Science
 
 I like computers, open source, science, technology, astronomy and more.
