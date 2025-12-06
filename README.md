@@ -18,6 +18,7 @@ I like computers, open source, science, technology, astronomy and more.
 Here is a list of my main projects.
 
 * [Spanner tree generator](https://github.com/cthadeusantos/spanner_tree_generator) (C/C++)
+* [Semantic Tableaux for Propositional and First-Order Logic](https://github.com/cthadeusantos/tableaux) (Rust)
 * [Phobos](https://github.com/cthadeusantos/phobos) (Python software for modeling voltage drops in an electrical power distribution networks)
 * [Makemake](https://github.com/cthadeusantos/makemake) (Python/Django)
 * [Electrical quick guide](https://github.com/cthadeusantos/electrical_quick_guide), (portuguese - LATEX)
